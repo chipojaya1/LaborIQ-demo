@@ -1,0 +1,1 @@
+"""LaborIQ backend package."""

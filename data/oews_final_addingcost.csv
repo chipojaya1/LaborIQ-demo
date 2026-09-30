@@ -1,0 +1,210 @@
+area,area_title,area_type,prim_state,i_group,occ_code,occ_title,tot_emp,jobs_1000,h_mean,a_mean,h_median,a_median,h_mean_adj,a_mean_adj
+1,Alabama,2,AL,cross-industry,15-1242,Database Administrators,1990,0.953,44.68,92930,42.58,88560,50.55362327,105146.558
+1,Alabama,2,AL,cross-industry,15-1243,Database Architects,310,0.147,56.5,117510,53.52,111330,63.92747795,132957.8395
+1,Alabama,2,AL,cross-industry,15-2051,Data Scientists,1620,0.773,49.51,102970,50.68,105410,56.01857404,116506.4142
+1,Alabama,2,AL,cross-industry,43-9021,Data Entry Keyers,1110,0.531,16.85,35050,16.19,33670,19.06509741,39657.66553
+2,Alaska,2,AK,cross-industry,15-1242,Database Administrators,90,0.268,46.44,96600,44.8,93180,45.26898197,94164.16147
+2,Alaska,2,AK,cross-industry,15-1243,Database Architects,40,0.129,53.64,111570,54.71,113800,52.28742879,108756.6821
+2,Alaska,2,AK,cross-industry,15-2051,Data Scientists,210,0.651,42.64,88690,37.21,77400,41.56480171,86453.61781
+2,Alaska,2,AK,cross-industry,43-9021,Data Entry Keyers,210,0.668,21.75,45230,20.22,42050,21.2015581,44089.493
+4,Arizona,2,AZ,cross-industry,15-1242,Database Administrators,1330,0.415,46.8,97340,46.31,96320,47.30598481,98392.40517
+4,Arizona,2,AZ,cross-industry,15-1243,Database Architects,850,0.267,64.94,135080,62.8,130620,65.64210799,136540.4365
+4,Arizona,2,AZ,cross-industry,15-2051,Data Scientists,4080,1.275,54.07,112460,51,106080,54.65458545,113675.8772
+4,Arizona,2,AZ,cross-industry,43-9021,Data Entry Keyers,3750,1.173,21.19,44070,20.58,42800,21.41909868,44546.46903
+5,Arkansas,2,AR,cross-industry,15-1242,Database Administrators,600,0.462,39.8,82780,38.32,79710,45.41035904,94448.98294
+5,Arkansas,2,AR,cross-industry,15-1243,Database Architects,330,0.258,52.59,109380,48.56,101000,60.00328598,124798.6199
+5,Arkansas,2,AR,cross-industry,15-2051,Data Scientists,470,0.366,50.27,104560,50.15,104320,57.35624997,119299.1744
+5,Arkansas,2,AR,cross-industry,43-9021,Data Entry Keyers,880,0.682,17.67,36760,16.75,34840,20.16083026,41941.8291
+6,California,2,CA,cross-industry,15-1242,Database Administrators,8360,0.463,57.24,119060,53.41,111090,51.099113,106286.8692
+6,California,2,CA,cross-industry,15-1243,Database Architects,5850,0.324,78.28,162820,76.51,159130,69.88187571,145352.1589
+6,California,2,CA,cross-industry,15-2051,Data Scientists,36850,2.041,74.74,155450,65.77,136800,66.72165803,138772.8357
+6,California,2,CA,cross-industry,43-9021,Data Entry Keyers,14040,0.777,22.7,47210,21.96,45680,20.26467269,42145.1629
+8,Colorado,2,CO,cross-industry,15-1242,Database Administrators,1400,0.484,55.75,115970,57.67,119940,54.36701195,113093.1368
+8,Colorado,2,CO,cross-industry,15-1243,Database Architects,2140,0.74,73.53,152940,72.82,151460,71.70594419,149146.0235
+8,Colorado,2,CO,cross-industry,15-2051,Data Scientists,6750,2.334,56.85,118250,51.2,106500,55.43972429,115316.5769
+8,Colorado,2,CO,cross-industry,43-9021,Data Entry Keyers,2040,0.705,23.1,48040,21.91,45560,22.52695921,46848.27362
+9,Connecticut,2,CT,cross-industry,15-1242,Database Administrators,770,0.457,49.71,103400,49.03,101990,47.63547506,99084.85458
+9,Connecticut,2,CT,cross-industry,15-1243,Database Architects,700,0.414,71.11,147910,70.87,147400,68.14239854,141737.3389
+9,Connecticut,2,CT,cross-industry,15-2051,Data Scientists,1630,0.972,57.82,120270,52.87,109960,55.4070241,115250.8265
+9,Connecticut,2,CT,cross-industry,43-9021,Data Entry Keyers,890,0.528,22.83,47480,22.13,46020,21.87724594,45498.53864
+10,Delaware,2,DE,cross-industry,15-1242,Database Administrators,730,1.534,50.89,105850,48.19,100240,51.89955005,107949.8403
+10,Delaware,2,DE,cross-industry,15-1243,Database Architects,**,**,72.14,150060,70.4,146430,73.57110514,153036.8733
+10,Delaware,2,DE,cross-industry,15-2051,Data Scientists,540,1.129,*,*,*,*,*,*
+10,Delaware,2,DE,cross-industry,43-9021,Data Entry Keyers,530,1.105,18.78,39050,17.88,37190,19.15255551,39824.66947
+11,District of Columbia,2,DC,cross-industry,15-1242,Database Administrators,550,0.774,57.92,120470,61.75,128440,52.16467176,108499.275
+11,District of Columbia,2,DC,cross-industry,15-1243,Database Architects,800,1.123,76.22,158550,75.52,157080,68.64625832,142795.3852
+11,District of Columbia,2,DC,cross-industry,15-2051,Data Scientists,3580,5.047,71.24,148170,65.92,137120,64.16110526,133446.8131
+11,District of Columbia,2,DC,cross-industry,43-9021,Data Entry Keyers,320,0.457,27.67,57560,24.93,51860,24.92051912,51840.44383
+12,Florida,2,FL,cross-industry,15-1242,Database Administrators,4080,0.416,49.47,102900,47.07,97900,48.75246127,101407.4846
+12,Florida,2,FL,cross-industry,15-1243,Database Architects,2040,0.208,66.48,138280,63.96,133040,65.51573935,136274.3146
+12,Florida,2,FL,cross-industry,15-2051,Data Scientists,9480,0.965,56.57,117670,50.88,105820,55.74947917,115963.2528
+12,Florida,2,FL,cross-industry,43-9021,Data Entry Keyers,9280,0.945,19.05,39620,18.32,38100,18.77368885,39045.33082
+13,Georgia,2,GA,cross-industry,15-1242,Database Administrators,3020,0.623,50.76,105590,51.01,106100,53.20130131,110668.3492
+13,Georgia,2,GA,cross-industry,15-1243,Database Architects,2930,0.603,68.07,141590,65.04,135280,71.34382546,148399.7686
+13,Georgia,2,GA,cross-industry,15-2051,Data Scientists,7730,1.591,53.38,111020,49.34,102630,55.94731017,116359.505
+13,Georgia,2,GA,cross-industry,43-9021,Data Entry Keyers,3100,0.639,19.64,40840,19.13,39800,20.58458546,42804.19909
+15,Hawaii,2,HI,cross-industry,15-1242,Database Administrators,110,0.17,46.82,97380,44.91,93400,42.01017145,87376.13191
+15,Hawaii,2,HI,cross-industry,15-1243,Database Architects,70,0.106,72.21,150190,71.87,149500,64.79185135,134760.9494
+15,Hawaii,2,HI,cross-industry,15-2051,Data Scientists,240,0.383,59.87,124530,59.56,123880,53.71954218,111737.0066
+15,Hawaii,2,HI,cross-industry,43-9021,Data Entry Keyers,260,0.416,*,*,*,*,*,*
+16,Idaho,2,ID,cross-industry,15-1242,Database Administrators,160,0.185,42.52,88440,37.87,78780,46.38832219,96485.96459
+16,Idaho,2,ID,cross-industry,15-1243,Database Architects,350,0.416,62.61,130240,60.59,126030,68.30604074,142088.7837
+16,Idaho,2,ID,cross-industry,15-2051,Data Scientists,980,1.157,57.89,120410,52.57,109340,63.1566315,131364.4843
+16,Idaho,2,ID,cross-industry,43-9021,Data Entry Keyers,560,0.668,19.01,39530,17.5,36400,20.73946389,43126.30235
+17,Illinois,2,IL,cross-industry,15-1242,Database Administrators,2290,0.378,51.8,107750,48.59,101070,51.67278161,107485.371
+17,Illinois,2,IL,cross-industry,15-1243,Database Architects,1460,0.241,65.56,136370,64.66,134490,65.39898769,136035.0816
+17,Illinois,2,IL,cross-industry,15-2051,Data Scientists,7390,1.218,57.22,119010,54.56,113490,57.07947034,118717.717
+17,Illinois,2,IL,cross-industry,43-9021,Data Entry Keyers,6680,1.102,20.21,42050,18.97,39450,20.16036518,41946.72716
+18,Indiana,2,IN,cross-industry,15-1242,Database Administrators,1180,0.372,41.1,85480,40.19,83600,44.55497064,92665.66644
+18,Indiana,2,IN,cross-industry,15-1243,Database Architects,670,0.209,63.53,132150,64.01,133150,68.87049355,143258.8655
+18,Indiana,2,IN,cross-industry,15-2051,Data Scientists,3120,0.979,44.53,92620,40.41,84050,48.27330518,100405.873
+18,Indiana,2,IN,cross-industry,43-9021,Data Entry Keyers,2690,0.844,19.6,40770,19.14,39800,21.2476259,44197.23
+19,Iowa,2,IA,cross-industry,15-1242,Database Administrators,380,0.243,48.8,101500,46.96,97690,54.30645757,112952.9804
+19,Iowa,2,IA,cross-industry,15-1243,Database Architects,280,0.182,60.05,124910,63.16,131370,66.82587658,139004.5003
+19,Iowa,2,IA,cross-industry,15-2051,Data Scientists,2330,1.49,46.78,97300,47.1,97980,52.05852634,108279.064
+19,Iowa,2,IA,cross-industry,43-9021,Data Entry Keyers,910,0.585,20.08,41770,19.75,41090,22.34577189,46483.21174
+20,Kansas,2,KS,cross-industry,15-1242,Database Administrators,560,0.392,56.85,118250,54.2,112740,62.34701129,129683.9769
+20,Kansas,2,KS,cross-industry,15-1243,Database Architects,390,0.271,60.09,124980,62.05,129060,65.90029742,137064.7224
+20,Kansas,2,KS,cross-industry,15-2051,Data Scientists,340,0.237,51.59,107300,53.04,110320,56.57840479,117675.1858
+20,Kansas,2,KS,cross-industry,43-9021,Data Entry Keyers,850,0.592,18.14,37720,18.13,37710,19.89401556,41367.26941
+21,Kentucky,2,KY,cross-industry,15-1242,Database Administrators,770,0.388,41.58,86490,40.38,83980,46.42801313,96574.28705
+21,Kentucky,2,KY,cross-industry,15-1243,Database Architects,510,0.254,53.08,110400,49.31,102560,59.2688537,123272.0695
+21,Kentucky,2,KY,cross-industry,15-2051,Data Scientists,1700,0.852,48.28,100410,44.95,93490,53.90919851,112117.2871
+21,Kentucky,2,KY,cross-industry,43-9021,Data Entry Keyers,1600,0.801,17.52,36430,17.5,36400,19.56274146,40677.54974
+22,Louisiana,2,LA,cross-industry,15-1242,Database Administrators,240,0.127,42.9,89230,41.55,86420,47.40258162,98595.15985
+22,Louisiana,2,LA,cross-industry,15-1243,Database Architects,350,0.184,*,*,*,*,*,*
+22,Louisiana,2,LA,cross-industry,15-2051,Data Scientists,1120,0.585,34.49,71740,33.91,70530,38.10990769,79269.49196
+22,Louisiana,2,LA,cross-industry,43-9021,Data Entry Keyers,1540,0.807,18.71,38910,17.61,36630,20.67371333,42993.81004
+23,Maine,2,ME,cross-industry,15-1242,Database Administrators,230,0.368,39.53,82210,37.01,76980,40.45090531,84125.19417
+23,Maine,2,ME,cross-industry,15-1243,Database Architects,250,0.389,64.52,134200,74.42,154790,66.02308147,137326.3722
+23,Maine,2,ME,cross-industry,15-2051,Data Scientists,1040,1.641,48.99,101890,45.36,94350,50.13128892,104263.6666
+23,Maine,2,ME,cross-industry,43-9021,Data Entry Keyers,200,0.322,21.77,45290,21.02,43720,22.27716187,46345.09237
+24,Maryland,2,MD,cross-industry,15-1242,Database Administrators,2640,0.963,59.82,124430,58.71,122110,56.81051954,118170.0593
+24,Maryland,2,MD,cross-industry,15-1243,Database Architects,1420,0.516,68.76,143020,67.65,140710,65.30075766,135824.8162
+24,Maryland,2,MD,cross-industry,15-2051,Data Scientists,3400,1.239,65.08,135370,59.78,124340,61.80589454,128559.6795
+24,Maryland,2,MD,cross-industry,43-9021,Data Entry Keyers,2520,0.917,19.22,39970,17.76,36940,18.25306228,37959.15189
+25,Massachusetts,2,MA,cross-industry,15-1242,Database Administrators,1940,0.532,53.89,112090,56.45,117420,49.83668291,103659.1907
+25,Massachusetts,2,MA,cross-industry,15-1243,Database Architects,1720,0.471,77.4,161000,77.48,161160,71.57838666,148890.4425
+25,Massachusetts,2,MA,cross-industry,15-2051,Data Scientists,9990,2.743,67.15,139670,63.58,132250,62.09933674,129164.7709
+25,Massachusetts,2,MA,cross-industry,43-9021,Data Entry Keyers,1840,0.505,22.69,47200,22.56,46930,20.98337976,43649.86887
+26,Michigan,2,MI,cross-industry,15-1242,Database Administrators,1190,0.27,46.95,97660,47.06,97880,49.75340538,103491.322
+26,Michigan,2,MI,cross-industry,15-1243,Database Architects,1150,0.262,56.54,117600,58.08,120810,59.91602854,124621.9483
+26,Michigan,2,MI,cross-industry,15-2051,Data Scientists,6450,1.47,49.05,102030,47.82,99470,51.97879731,108122.2567
+26,Michigan,2,MI,cross-industry,43-9021,Data Entry Keyers,2980,0.678,19.11,39750,18.54,38570,20.2510666,42123.49018
+27,Minnesota,2,MN,cross-industry,15-1242,Database Administrators,970,0.331,48.56,101010,46.75,97230,49.47932587,102922.2963
+27,Minnesota,2,MN,cross-industry,15-1243,Database Architects,910,0.312,61.41,127730,62.7,130420,62.57259889,130148.1527
+27,Minnesota,2,MN,cross-industry,15-2051,Data Scientists,3500,1.199,56.79,118110,56.65,117840,57.86513419,120346.0292
+27,Minnesota,2,MN,cross-industry,43-9021,Data Entry Keyers,1320,0.451,20.86,43400,20.02,41640,21.25491635,44221.63803
+28,Mississippi,2,MS,cross-industry,15-1242,Database Administrators,230,0.2,40.78,84830,41.55,86420,47.09572512,97967.88529
+28,Mississippi,2,MS,cross-industry,15-1243,Database Architects,110,0.093,44.42,92400,43.74,90980,51.29946321,106710.2747
+28,Mississippi,2,MS,cross-industry,15-2051,Data Scientists,270,0.232,37.42,77830,33.38,69430,43.2153515,89883.77357
+28,Mississippi,2,MS,cross-industry,43-9021,Data Entry Keyers,660,0.565,17.35,36090,16.12,33530,20.03704833,41679.37027
+29,Missouri,2,MO,cross-industry,15-1242,Database Administrators,1400,0.478,45.67,94990,42.12,87600,49.69705148,103365.9496
+29,Missouri,2,MO,cross-industry,15-1243,Database Architects,1840,0.629,54.2,112730,52.32,108820,58.97920276,122670.2127
+29,Missouri,2,MO,cross-industry,15-2051,Data Scientists,4350,1.491,45.82,95310,41.14,85570,49.86027805,103714.1663
+29,Missouri,2,MO,cross-industry,43-9021,Data Entry Keyers,2220,0.759,20.85,43380,17.6,36620,22.68849405,47205.12575
+30,Montana,2,MT,cross-industry,15-1242,Database Administrators,240,0.48,39.94,83070,38.92,80960,43.59966902,90681.63509
+30,Montana,2,MT,cross-industry,15-1243,Database Architects,50,0.099,59.85,124500,55.89,116250,65.33400578,135907.8316
+30,Montana,2,MT,cross-industry,15-2051,Data Scientists,200,0.394,53.6,111490,51.37,106860,58.51132347,121705.7361
+30,Montana,2,MT,cross-industry,43-9021,Data Entry Keyers,380,0.748,19.86,41310,19.11,39750,21.6797553,45095.20098
+31,Nebraska,2,NE,cross-industry,15-1242,Database Administrators,540,0.535,46.19,96080,44.46,92470,50.47590947,104995.1371
+31,Nebraska,2,NE,cross-industry,15-1243,Database Architects,590,0.584,62.38,129750,63.62,132320,68.16815832,141789.3322
+31,Nebraska,2,NE,cross-industry,15-2051,Data Scientists,1850,1.817,46.98,97720,46.38,96470,51.33921254,106787.3105
+31,Nebraska,2,NE,cross-industry,43-9021,Data Entry Keyers,1110,1.096,17.49,36390,17.47,36330,19.11287414,39766.58034
+32,Nevada,2,NV,cross-industry,15-1242,Database Administrators,470,0.305,42.29,87960,41.82,86980,43.62024293,90726.80463
+32,Nevada,2,NV,cross-industry,15-1243,Database Architects,320,0.211,59.62,124010,62.68,130360,61.49536258,127910.7667
+32,Nevada,2,NV,cross-industry,15-2051,Data Scientists,1230,0.802,47.51,98820,44.86,93310,49.00443938,101928.4088
+32,Nevada,2,NV,cross-industry,43-9021,Data Entry Keyers,480,0.312,19.6,40760,18.26,37980,20.21652309,42042.11638
+33,New Hampshire,2,NH,cross-industry,15-1242,Database Administrators,230,0.34,52.5,109190,58.57,121820,49.99904764,103988.4955
+33,New Hampshire,2,NH,cross-industry,15-2051,Data Scientists,870,1.278,49.15,102230,47.58,98970,46.80863222,97360.05028
+33,New Hampshire,2,NH,cross-industry,43-9021,Data Entry Keyers,780,1.141,20.37,42380,20.16,41940,19.39963048,40361.13598
+34,New Jersey,2,NJ,cross-industry,15-1242,Database Administrators,2060,0.485,60.9,126670,62.01,128970,55.49116515,115419.8011
+34,New Jersey,2,NJ,cross-industry,15-1243,Database Architects,2530,0.595,69.36,144260,69.18,143900,63.19979006,131447.5449
+34,New Jersey,2,NJ,cross-industry,15-2051,Data Scientists,5860,1.379,63.36,131800,62.68,130370,57.7326802,120094.1801
+34,New Jersey,2,NJ,cross-industry,43-9021,Data Entry Keyers,5240,1.232,21.56,44850,20.9,43480,19.64514812,40866.64626
+35,New Mexico,2,NM,cross-industry,15-1242,Database Administrators,520,0.609,45.42,94480,45.6,94850,49.81137042,103614.6692
+35,New Mexico,2,NM,cross-industry,15-1243,Database Architects,130,0.148,56.55,117620,57.75,120120,62.0174592,128991.9284
+35,New Mexico,2,NM,cross-industry,15-2051,Data Scientists,510,0.589,41.6,86520,40.88,85040,45.62203895,94885.06756
+35,New Mexico,2,NM,cross-industry,43-9021,Data Entry Keyers,410,0.471,20.89,43440,21.61,44960,22.909721,47639.93683
+36,New York,2,NY,cross-industry,15-1242,Database Administrators,3680,0.385,54.36,113070,51.41,106940,49.93367896,103863.1545
+36,New York,2,NY,cross-industry,15-1243,Database Architects,4180,0.438,66.27,137840,61.67,128270,60.8738945,126616.2308
+36,New York,2,NY,cross-industry,15-2051,Data Scientists,20070,2.103,64.16,133450,60.29,125400,58.9357035,122583.6913
+36,New York,2,NY,cross-industry,43-9021,Data Entry Keyers,9890,1.036,22.01,45770,20.67,42990,20.21781225,42043.12888
+37,North Carolina,2,NC,cross-industry,15-1242,Database Administrators,1990,0.407,51.03,106140,52.13,108430,54.85763675,114101.3044
+37,North Carolina,2,NC,cross-industry,15-1243,Database Architects,4060,0.829,62.38,129750,62.77,130560,67.05897277,139482.2333
+37,North Carolina,2,NC,cross-industry,15-2051,Data Scientists,10140,2.071,56.74,118020,55.47,115380,60.99593002,126872.3945
+37,North Carolina,2,NC,cross-industry,43-9021,Data Entry Keyers,4110,0.839,19.1,39720,18.55,38580,20.53264476,42699.30103
+38,North Dakota,2,ND,cross-industry,15-1242,Database Administrators,90,0.206,41.32,85950,36.73,76400,45.58200901,94815.43258
+38,North Dakota,2,ND,cross-industry,15-1243,Database Architects,50,0.111,54.24,112830,55.83,116120,59.83466042,124468.0077
+38,North Dakota,2,ND,cross-industry,15-2051,Data Scientists,320,0.747,45.25,94130,46.26,96230,49.91737434,103839.1701
+38,North Dakota,2,ND,cross-industry,43-9021,Data Entry Keyers,60,0.146,*,*,*,*,*,*
+39,Ohio,2,OH,cross-industry,15-1242,Database Administrators,1770,0.319,46.35,96400,45.2,94020,50.29842648,104612.0456
+39,Ohio,2,OH,cross-industry,15-1243,Database Architects,2230,0.403,64.02,133170,62.42,129840,69.47368421,144514.3787
+39,Ohio,2,OH,cross-industry,15-2051,Data Scientists,5510,0.996,48.2,100260,47.41,98620,52.30602279,108800.8681
+39,Ohio,2,OH,cross-industry,43-9021,Data Entry Keyers,5450,0.986,19.77,41120,19.14,39810,21.45415084,44622.89745
+40,Oklahoma,2,OK,cross-industry,15-1242,Database Administrators,660,0.391,42.03,87430,37.01,76980,47.12527947,98029.10264
+40,Oklahoma,2,OK,cross-industry,15-1243,Database Architects,730,0.432,64.36,133880,63.64,132360,72.1623361,150110.2169
+40,Oklahoma,2,OK,cross-industry,15-2051,Data Scientists,2160,1.276,43.24,89940,38.64,80380,48.48196726,100843.3889
+40,Oklahoma,2,OK,cross-industry,43-9021,Data Entry Keyers,1760,1.043,17.56,36520,17.07,35510,19.68879152,40947.30445
+41,Oregon,2,OR,cross-industry,15-1242,Database Administrators,930,0.473,50.5,105050,49.35,102650,48.4163538,100715.6033
+41,Oregon,2,OR,cross-industry,15-1243,Database Architects,710,0.361,70.93,147530,67.14,139660,68.00340544,141442.8649
+41,Oregon,2,OR,cross-industry,15-2051,Data Scientists,2650,1.349,59.65,124060,51.01,106100,57.18882186,118941.2446
+41,Oregon,2,OR,cross-industry,43-9021,Data Entry Keyers,1180,0.599,22.71,47230,21.95,45650,21.77297811,45281.27505
+42,Pennsylvania,2,PA,cross-industry,15-1242,Database Administrators,5000,0.831,50.53,105100,51.83,107800,52.04760404,108256.5443
+42,Pennsylvania,2,PA,cross-industry,15-1243,Database Architects,2240,0.372,62.56,130130,62.04,129040,64.43890973,134038.2884
+42,Pennsylvania,2,PA,cross-industry,15-2051,Data Scientists,10430,1.734,51.66,107450,48.23,100320,53.21154215,110677.1236
+42,Pennsylvania,2,PA,cross-industry,43-9021,Data Entry Keyers,7350,1.223,20.08,41760,20.38,42400,20.68307716,43014.20829
+44,Rhode Island,2,RI,cross-industry,15-1242,Database Administrators,320,0.645,50.05,104100,49.91,103810,48.86473694,101634.7476
+44,Rhode Island,2,RI,cross-industry,15-1243,Database Architects,190,0.389,71.8,149350,65.63,136510,70.09966258,145813.1561
+44,Rhode Island,2,RI,cross-industry,15-2051,Data Scientists,1190,2.412,57.41,119400,54.99,114390,56.05044051,116572.4194
+44,Rhode Island,2,RI,cross-industry,43-9021,Data Entry Keyers,290,0.588,22.59,46990,22.25,46290,22.05503312,45877.20257
+45,South Carolina,2,SC,cross-industry,15-1242,Database Administrators,660,0.293,48.02,99890,44.55,92670,51.91239108,107986.8543
+45,South Carolina,2,SC,cross-industry,15-1243,Database Architects,730,0.322,61.7,128340,61.75,128440,66.70126051,138742.9461
+45,South Carolina,2,SC,cross-industry,15-2051,Data Scientists,2810,1.239,46.62,96970,43.59,90660,50.39891029,104830.1658
+45,South Carolina,2,SC,cross-industry,43-9021,Data Entry Keyers,1520,0.668,18.35,38170,17.59,36590,19.83740892,41263.97267
+46,South Dakota,2,SD,cross-industry,15-1242,Database Administrators,150,0.325,42.12,87610,41.3,85890,46.88105213,97513.03364
+46,South Dakota,2,SD,cross-industry,15-1243,Database Architects,60,0.122,58.28,121220,61.28,127460,64.86770461,134922.1543
+46,South Dakota,2,SD,cross-industry,15-2051,Data Scientists,270,0.586,44.45,92460,44.23,92000,49.47442467,102911.2555
+46,South Dakota,2,SD,cross-industry,43-9021,Data Entry Keyers,**,**,17.98,37390,18.34,38140,20.01237695,41616.39457
+47,Tennessee,2,TN,cross-industry,15-1242,Database Administrators,1440,0.438,48.39,100650,48.87,101640,52.98240927,110202.0974
+47,Tennessee,2,TN,cross-industry,15-1243,Database Architects,680,0.208,60.5,125840,61.75,128440,66.24169789,137782.7316
+47,Tennessee,2,TN,cross-industry,15-2051,Data Scientists,2550,0.778,55.21,114830,50.34,104700,60.44965521,125727.8375
+47,Tennessee,2,TN,cross-industry,43-9021,Data Entry Keyers,1860,0.568,19.61,40780,19.07,39670,21.47106935,44650.18909
+48,Texas,2,TX,cross-industry,15-1242,Database Administrators,6110,0.441,52.56,109330,52.88,109990,53.59950888,111492.2813
+48,Texas,2,TX,cross-industry,15-1243,Database Architects,6330,0.457,65.83,136930,64.33,133800,67.13195718,139638.1421
+48,Texas,2,TX,cross-industry,15-2051,Data Scientists,23420,1.691,55.19,114800,51.22,106540,56.28152387,117070.4646
+48,Texas,2,TX,cross-industry,43-9021,Data Entry Keyers,19950,1.441,18.74,38980,17.87,37180,19.11063159,39750.92953
+49,Utah,2,UT,cross-industry,15-1242,Database Administrators,800,0.468,50.51,105050,47.06,97890,52.98236928,110191.9995
+49,Utah,2,UT,cross-industry,15-1243,Database Architects,630,0.369,64.65,134470,61.43,127770,67.81449562,141052.053
+49,Utah,2,UT,cross-industry,15-2051,Data Scientists,4830,2.827,57.52,119640,55.97,116420,60.33549557,125496.1525
+49,Utah,2,UT,cross-industry,43-9021,Data Entry Keyers,2430,1.419,21.66,45060,20,41600,22.72021617,47265.60205
+50,Vermont,2,VT,cross-industry,15-1242,Database Administrators,120,0.407,48.07,99980,49.12,102170,48.25975737,100374.6732
+50,Vermont,2,VT,cross-industry,15-1243,Database Architects,50,0.15,*,*,*,*,*,*
+50,Vermont,2,VT,cross-industry,15-2051,Data Scientists,210,0.698,57.51,119630,58.01,120670,57.73702197,120102.242
+50,Vermont,2,VT,cross-industry,43-9021,Data Entry Keyers,260,0.852,20.95,43580,20.48,42590,21.03270058,43752.03299
+51,Virginia,2,VA,cross-industry,15-1242,Database Administrators,4210,1.035,54.71,113810,50.48,105000,54.04043896,112417.1515
+51,Virginia,2,VA,cross-industry,15-1243,Database Architects,7140,1.755,*,*,*,*,*,*
+51,Virginia,2,VA,cross-industry,15-2051,Data Scientists,6200,1.525,63.57,132230,60.61,126070,62.79200703,130611.7208
+51,Virginia,2,VA,cross-industry,43-9021,Data Entry Keyers,3000,0.738,19.92,41430,18.33,38130,19.67621174,40922.96447
+53,Washington,2,WA,cross-industry,15-1242,Database Administrators,2190,0.618,56.73,118000,55.14,114700,52.21939325,108617.8107
+53,Washington,2,WA,cross-industry,15-1243,Database Architects,2490,0.702,70.93,147540,69.26,144050,65.29035014,135809.083
+53,Washington,2,WA,cross-industry,15-2051,Data Scientists,7930,2.24,78.24,162730,76.33,158760,72.01913146,149791.3249
+53,Washington,2,WA,cross-industry,43-9021,Data Entry Keyers,1640,0.464,22.77,47350,21.49,44710,20.95955551,43585.19779
+54,West Virginia,2,WV,cross-industry,15-1242,Database Administrators,230,0.328,35.35,73530,31.43,65380,39.64924717,82472.67735
+54,West Virginia,2,WV,cross-industry,15-1243,Database Architects,270,0.388,63.79,132690,75.77,157590,71.54810401,148827.6834
+54,West Virginia,2,WV,cross-industry,15-2051,Data Scientists,220,0.32,49.41,102770,46.04,95760,55.41921648,115268.8297
+54,West Virginia,2,WV,cross-industry,43-9021,Data Entry Keyers,660,0.943,17.71,36830,17.17,35700,19.86388026,41309.24394
+55,Wisconsin,2,WI,cross-industry,15-1242,Database Administrators,1380,0.473,50.26,104550,47.56,98920,53.93363566,112191.8346
+55,Wisconsin,2,WI,cross-industry,15-1243,Database Architects,360,0.123,67.68,140770,66.79,138930,72.6269093,151059.2497
+55,Wisconsin,2,WI,cross-industry,15-2051,Data Scientists,3640,1.243,50.74,105540,48.09,100020,54.44872012,113254.1963
+55,Wisconsin,2,WI,cross-industry,43-9021,Data Entry Keyers,2610,0.895,20.01,41620,18.63,38740,21.47258356,44662.11532
+56,Wyoming,2,WY,cross-industry,15-1242,Database Administrators,100,0.376,35.24,73300,33.65,69980,38.29660525,79657.80831
+56,Wyoming,2,WY,cross-industry,15-1243,Database Architects,130,0.45,33.12,68880,30.17,62760,35.99272321,74854.4316
+56,Wyoming,2,WY,cross-industry,15-2051,Data Scientists,**,**,41.1,85480,46.08,95840,44.66488297,92894.26268
+56,Wyoming,2,WY,cross-industry,43-9021,Data Entry Keyers,130,0.467,21.65,45030,19.72,41020,23.52785198,48935.75864
+66,Guam,3,GU,cross-industry,43-9021,Data Entry Keyers,110,1.748,13.35,27770,13.28,27620,13.35,27770
+72,Puerto Rico,3,PR,cross-industry,15-1242,Database Administrators,230,0.241,27.86,57950,23.66,49210,27.86,57950
+72,Puerto Rico,3,PR,cross-industry,15-1243,Database Architects,80,0.088,37.58,78160,37.16,77300,37.58,78160
+72,Puerto Rico,3,PR,cross-industry,15-2051,Data Scientists,120,0.122,34.79,72370,33.98,70690,34.79,72370
+72,Puerto Rico,3,PR,cross-industry,43-9021,Data Entry Keyers,2280,2.428,13.28,27620,11.19,23270,13.28,27620
+78,Virgin Islands,3,VI,cross-industry,43-9021,Data Entry Keyers,60,1.797,16.71,34750,16.86,35060,16.71,34750

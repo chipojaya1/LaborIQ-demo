@@ -1,0 +1,27 @@
+{
+  "programming_languages": [
+    "python", "r", "c", "c++", "c#", "scala", "go", "perl", "oracle java"
+  ],
+  "data_management_query_languages": [
+    "structured query language sql", "microsoft sql server", "postgresql",
+    "mongodb", "nosql", "apache hive", "amazon redshift",
+    "teradata database", "javascript", "json"
+  ],
+  "cloud_devops_platforms": [
+    "amazon web services aws", "amazon simple storage service s3",
+    "amazon elastic compute cloud ec2", "microsoft azure",
+    "docker", "kubernetes", "jenkins ci", "linux", "unix", "bash"
+  ],
+  "machine_learning_ai_frameworks": [
+    "tensorflow", "pytorch", "apache spark", "apache hadoop",
+    "apache kafka", "sas", "ibm spss statistics", "the mathworks matlab",
+    "alteryx software"
+  ],
+  "data_visualization_bi_tools": [
+    "tableau", "microsoft power bi", "microsoft excel", "microsoft access",
+    "microsoft powerpoint", "microsoft office software"
+  ],
+  "version_control_collaboration_tools": [
+    "git", "github", "atlassian jira"
+  ]
+}
